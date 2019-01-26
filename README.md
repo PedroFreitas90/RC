@@ -1,2 +1,2 @@
 # RC
-Redes e computadores
+Pratical scripts or computer networks
