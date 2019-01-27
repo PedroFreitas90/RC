@@ -1,2 +1,2 @@
 # RC
-Pratical scripts or computer networks
+Pratical scripts of computer networks
